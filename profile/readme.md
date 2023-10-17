@@ -1,2 +1,10 @@
-# 📦📦📦 -> :octocat:
-A minimalistic :octocat: GitHub client that is ~~better~~ easier for usage. This project is designed only for Apple products at this moment. 
+## Cachew!
+
+We build software that makes your lives easier and sometimes more fun! We offer multiple ways to get involved!
+
+* Contribute to our repositories!
+* Share our projects!
+
+----
+
+Our projects are licensed with either the MIT license, Apache 2.0 or BSD licenses.
